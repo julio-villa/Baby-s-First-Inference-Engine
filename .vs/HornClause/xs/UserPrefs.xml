@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{571C6D44-1BD1-425B-ABD6-81BF0774F566}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HornClause/Prover.cs">
+    <Files>
+      <File FileName="HornClause/Goal.cs" Line="1" Column="1" />
+      <File FileName="HornClause/Predicate.cs" />
+      <File FileName="HornClause/Prover.cs" Line="95" Column="34" />
+      <File FileName="HornClause/Unifier.cs" />
+      <File FileName="HornClause/Rule.cs" Line="1" Column="1" />
+      <File FileName="HornClause/Substitution.cs" Line="1" Column="1" />
+      <File FileName="HornClause/Variable.cs" />
+      <File FileName="Tests/ProofTests.cs" />
+      <File FileName="Tests/UnificationTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HornClause" expanded="True">
+            <Node name="HornClause" expanded="True">
+              <Node name="Prover.cs" selected="True" />
+            </Node>
+            <Node name="Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HornClause" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
